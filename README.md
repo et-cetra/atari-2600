@@ -1,4 +1,4 @@
-# There code implements vanilla neural network and extensions, including double DQN, dueling DQN, priority experience buffer, and Canny edge detector wrapper
+# This code implements vanilla neural network and extensions, including double DQN, dueling DQN, priority experience buffer, and Canny edge detector wrapper
 ## Creating virtual environment/Setup
 
 First you will need to create a virtual environment.
