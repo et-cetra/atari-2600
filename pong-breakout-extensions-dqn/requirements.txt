@@ -1,0 +1,15 @@
+numpy
+atari-py
+cmake
+gym
+gym[atari]
+ptan
+opencv-python
+scipy==1.4.1
+torch
+torchvision
+tensorboardX
+tensorflow
+tensorboard
+pybullet
+matplotlib
