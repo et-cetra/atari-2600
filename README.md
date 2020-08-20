@@ -1,4 +1,22 @@
-# This code implements vanilla neural network and extensions, including double DQN, dueling DQN, priority experience buffer, and Canny edge detector wrapper
+## This code implements vanilla neural network and extensions, including double DQN, dueling DQN, priority experience buffer, and Canny edge detector wrapper
+The purpose of this project is to design a deep neural network, incorporate various extensions and modify
+hyperparameters to learn non-trivial Atari 2600 games. We first evaluate the system to learn Pong, and then
+utilise the findings to run DQN learning on Breakout.
+
+Our team was drawn to this particular project for several reasons. Foremost, the idea of training an AI to play
+classic Atari games was appealing for the novelty, as our team is composed of several video game fans.
+However a large attraction of the project was that it allows us to work with highly sophisticated Python packages
+to construct complicated neural networks with relative ease. We are able to experience the process of
+experimenting with learning networks and tuning hyperparameters in an advanced supervised system without
+having to reinvent the wheel and code neural networks by hand.
+
+## Our Team
+
+- [Mariya Shmalko](https://github.com/et-cetra)
+- [Sean Luo](https://github.com/lu0x1a0)
+- [Joshua Derbe](https://github.com/JoshuaDerbe)
+- [Arkie Owen](https://github.com/Arkington)
+
 ## Creating virtual environment/Setup
 
 First you will need to create a virtual environment.
