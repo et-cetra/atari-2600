@@ -100,4 +100,4 @@ Example command to run breakout extensions model:
 python runTrained.py -e BreakoutNoFrameskip-v4 -md BreakoutNoFrameskip-v4-best-extensions.dat
 ```
 
-Windows also need to install ffmpeg and a window substitute for xvfb manually added to path.
+Windows may also need to install ffmpeg and a window substitute for xvfb manually added to path.
